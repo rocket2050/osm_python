@@ -1,4 +1,0 @@
----
-  - include: python3-4.yml
-
-  - include: python3-6.yml
