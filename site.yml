@@ -1,0 +1,5 @@
+---
+  - hosts: centos
+    roles:
+      - role: /home/tj/Documents/osm_python
+    become: true
